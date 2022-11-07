@@ -1,0 +1,6 @@
+
+rootProject.name = "checkRes"
+include ':app'
+include ':toolsPlugin'
+include ':mylibrary1'
+include ':mylibrary2'
